@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arpit kumbhare</h1>
-<h3 align="center">Final Year B.tech student at YCCE,Nagpur</h3>
+<h3 align="center">Bachloer of Technology graduate from Yeshwantrao College Of Engineering, Nagpur</h3>
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 📫 How to reach me **arpitkumbhare007@gmail.com**
+- 📫 Reach me at **arpitkumbhare007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
