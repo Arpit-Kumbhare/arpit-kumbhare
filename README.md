@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit kumbhare</h1>
-<h3 align="center">Bachloer of Technology graduate from Yeshwantrao College Of Engineering, Nagpur</h3>
+<h3 align="center">Bachelor of Technology graduate from Yeshwantrao College Of Engineering, Nagpur</h3>
 
 - 🌱 I’m currently learning **Mern Stack**
 
